@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
