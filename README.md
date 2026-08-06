@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
