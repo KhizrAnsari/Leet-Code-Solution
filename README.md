@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1563-stone-game-v) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
