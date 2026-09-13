@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
