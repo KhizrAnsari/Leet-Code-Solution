@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1563-stone-game-v) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
