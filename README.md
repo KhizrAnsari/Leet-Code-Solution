@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -307,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
