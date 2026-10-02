@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
@@ -329,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
