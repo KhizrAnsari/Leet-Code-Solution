@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1386-cinema-seat-allocation) |
