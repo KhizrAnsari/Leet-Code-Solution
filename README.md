@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
