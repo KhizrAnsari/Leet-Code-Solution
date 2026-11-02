@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0053-maximum-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1140-stone-game-ii) |
