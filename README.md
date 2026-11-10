@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0053-maximum-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
