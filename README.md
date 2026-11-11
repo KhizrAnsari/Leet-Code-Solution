@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0486-predict-the-winner) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
