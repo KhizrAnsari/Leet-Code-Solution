@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2685-count-the-number-of-complete-components) |
@@ -404,12 +406,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0112-path-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/0112-path-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhizrAnsari/Leet-Code-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
